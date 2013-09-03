@@ -1,0 +1,24 @@
+--- 
+__version: '2.1'
+domotek-la.com: 
+  account_count: 0
+  accounts: {}
+
+domotek-llc.com: 
+  account_count: 0
+  accounts: {}
+
+domotek-us.com: 
+  account_count: 2
+  accounts: 
+    diego: 
+      disk_mtime: '1377449666'
+      diskquota: 104857600
+      diskused: 4449894
+    mauricio: 
+      disk_mtime: '1377449666'
+      diskquota: 104857600
+      diskused: 15297125
+  disk_mtime: '1377449666'
+  passwd_mtime: '1377449666'
+  quota_mtime: '1377449666'

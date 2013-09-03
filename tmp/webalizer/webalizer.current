@@ -1,0 +1,226 @@
+# Webalizer V2.23-05 Incremental Data - 09/02/2013 23:57:58
+2013 9 2 23 57 58
+115 114 8 25 4 3 361395 19 15 0
+8 1 63 1 2
+57 57 163952 3 3 3
+58 57 197443 8 16 12
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+5 5 26687 3
+3 3 18640 2
+2 2 15047 2
+1 1 7696 1
+0 0 0 0
+2 1 9077 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 4782 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+57 57 163952 3
+2 2 9055 1
+32 32 56405 2
+3 3 17251 2
+5 5 25078 2
+1 1 4782 0
+0 0 0 0
+1 1 2943 0
+0
+0
+0
+114
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/sites/all/themes/domotek/js/spin.min.js
+0 3 0 13500 0 0
+/sites/all/themes/omega/omega/css/modules/system/system.base.css
+0 5 0 26650 0 0
+/sites/all/modules/views_slideshow/views_slideshow.css
+0 5 0 775 0 0
+/sites/all/themes/omega/omega/css/modules/user/user.theme.css
+0 5 0 6610 0 0
+/sites/all/modules/ctools/css/ctools.css
+0 5 0 2545 0 0
+/sites/all/themes/omega/omega/css/modules/field/field.theme.css
+0 5 0 1210 0 0
+/sites/all/themes/omega/omega/apple-touch-icon-precomposed-72x72.png
+0 2 0 5886 0 0
+/sites/all/themes/omega/omega/css/modules/system/system.messages.theme.css
+0 5 0 5760 0 0
+/user/password
+0 3 16577120 21966 1 3
+/user/register
+0 3 16577040 24858 1 1
+/sites/all/themes/omega/omega/css/modules/comment/comment.theme.css
+0 5 0 525 0 0
+/sites/all/themes/omega/omega/apple-touch-icon-precomposed-144x144.png
+0 3 0 14346 0 0
+/user
+0 3 16581536 22914 3 0
+/sites/all/themes/omega/omega/css/modules/user/user.base.css
+0 5 0 500 0 0
+/sites/all/themes/omega/omega/css/modules/system/system.menus.theme.css
+0 5 0 7910 0 0
+/sites/all/themes/omega/omega/apple-touch-icon-precomposed-114x114.png
+0 1 0 3949 0 0
+/sites/all/themes/omega/omega/css/modules/search/search.theme.css
+0 5 0 1915 0 0
+/sites/all/themes/omega/omega/css/modules/system/system.theme.css
+0 5 0 17325 0 0
+/sites/all/modules/views/css/views.css
+0 5 0 3535 0 0
+/sites/all/themes/omega/ohm/css/layouts/ohm-hero/ohm-hero-layout.css
+0 5 0 14670 0 0
+/
+0 9 0 67843 9 4
+/sites/all/modules/views_slideshow/js/views_slideshow.js
+0 3 0 57768 0 0
+/sites/all/themes/omega/omega/css/omega.development.css
+0 5 0 5540 0 0
+/robots.txt
+0 11 0 17171 0 0
+/sites/all/themes/domotek/js/global.js
+0 3 0 8208 0 0
+# End Of Table - urls
+# -sites- (monthly)
+crawl-66-249-73-132.googlebot.com
+0 5 5 32622 3 1378102026
+/user
+crawl-66-249-73-81.googlebot.com
+0 35 35 82829 2 1378145473
+/
+crawl-66-249-73-124.googlebot.com
+0 4 4 13235 0 0
+-
+msnbot-157-56-93-62.search.msn.com
+0 2 2 9055 1 1378144729
+/
+msnbot-157-55-33-98.search.msn.com
+0 2 1 9077 1 1378111154
+-
+crawl-66-249-73-222.googlebot.com
+0 25 25 91460 4 1378154829
+/user
+crawl-66-249-73-60.googlebot.com
+0 7 7 40230 2 1378100235
+/user
+crawl-66-249-73-162.googlebot.com
+0 35 35 82887 2 1378146148
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-73-132.googlebot.com
+0 5 5 32622 3 1378102026
+/user
+crawl-66-249-73-81.googlebot.com
+0 16 16 28188 1 1378145473
+/
+crawl-66-249-73-124.googlebot.com
+0 4 4 13235 0 0
+-
+msnbot-157-56-93-62.search.msn.com
+0 2 2 9055 1 1378144729
+/
+msnbot-157-55-33-98.search.msn.com
+0 2 1 9077 1 1378111154
+-
+crawl-66-249-73-222.googlebot.com
+0 6 6 36819 3 1378154829
+/user
+crawl-66-249-73-60.googlebot.com
+0 7 7 40230 2 1378100235
+/user
+crawl-66-249-73-162.googlebot.com
+0 16 16 28217 1 1378146148
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://domotek-llc.com/
+0 31
+http://domotek-la.com/
+0 31
+- (Direct Request)
+0 36
+http://domotek-us.com/
+0 17
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 105
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 4
+Googlebot-Image/1.0
+0 6
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

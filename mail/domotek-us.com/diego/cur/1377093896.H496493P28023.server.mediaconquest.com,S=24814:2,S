@@ -1,0 +1,435 @@
+Return-path: <ESC1114599335263_1102180066094_18194_r20@in.constantcontact.com>
+Envelope-to: diego@domotek-us.com
+Delivery-date: Wed, 21 Aug 2013 09:04:56 -0500
+Received: from ccm184.constantcontact.com ([208.75.123.184]:49754)
+	by server.mediaconquest.com with esmtp (Exim 4.80.1)
+	(envelope-from <ESC1114599335263_1102180066094_18194_r20@in.constantcontact.com>)
+	id 1VC91s-0007Hv-7Q
+	for diego@domotek-us.com; Wed, 21 Aug 2013 09:04:56 -0500
+Received: from p2-jbsched08.ad.prodcc.net (p2-pen6.ad.prodcc.net [10.252.0.106])
+	by p2-mail204.ccm184.constantcontact.com (Postfix) with ESMTP id B2E349F5A1B
+	for <diego@domotek-us.com>; Wed, 21 Aug 2013 10:04:54 -0400 (EDT)
+DKIM-Signature: v=1; q=dns/txt; a=rsa-sha256; c=relaxed/relaxed; s=1000073432; d=auth.ccsend.com; h=to:subject:mime-version:message-id:from:date:list-unsubscribe:reply-to; bh=a8PruFcOqbfEZfLtZoXODadK1vRMKdKidgoUgcoWt4Y=; b=PsccRXi92/h6VEgjXlwLRr5RWc5J9Zn7v4Dt42ocUkpXcp10UIkVJCawlwLFgaW3SaEylzVUZXSA59a1eTQavDrwkZC90lNZhWKVgYOhjdzpNdZADmG5VhIrvu2/e7xtKTEwyct4F0BAco+HKZ+U9LtomN2sc7diDrOY2Y2+Xr4=
+Message-ID: <1114599335263.1102180066094.18194.8.2110008C@scheduler.constantcontact.com>
+Date: Wed, 21 Aug 2013 10:04:54 -0400 (EDT)
+From: "Kenton Smith, Luxul Marketing Director" <ksmith@luxul.com>
+Reply-To: ksmith@luxul.com
+To: diego@domotek-us.com
+Subject: 10 New Products from Luxul
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_115120386_493373156.1377093894718"
+X-Mailer: Roving Constant Contact 2009 (http://www.constantcontact.com)
+List-Unsubscribe: http://visitor.constantcontact.com/do?p=un&mse=001tWHBC2Uj9uG_VAhSze9s4dWBt-e_49WkVycXiCrPOpI%3D&t=001M2Ebd-YnonsO0YGtM5y9sA%3D%3D&llr=ozi9qpcab
+X-Return-Path-Hint: ESC1114599335263_1102180066094_18194_r20@in.constantcontact.com
+X-Roving-ID: 1102180066094.18194
+X-Lumos-SenderID: 1102180066094
+X-Roving-CampaignId: 1114599335263
+X-Roving-StreamId: 0
+
+------=_Part_115120386_493373156.1377093894718
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+LUXUL TO INTRODUCE 10 NEW IP NETWORKING PRODUCTS AT CEDIA EXPO
+
+Products to be Exhibited Include 802.11ac Wireless Routers, High Powered Concurrent
+Dual-Band APs, PoE Switches and Gigabit Broadband Routers
+
+Luxul will feature 10 new products at the CEDIA Expo (Booth #2350) in Denver, CO
+ to be held September 25-28, 2013. All 10 products are part of the Luxul Xen(TM)
+ family of IP networking equipment designed specifically for the CEDIA custom installer
+market. Products on display will include leading edge 802.11ac Gigabit wireless 
+routers, high-powered concurrent dual-band wireless access points, state-of-the-art
+PoE switches and Gigabit broadband router solutions. Details of each product will
+be released at a later time.
+
+"Luxul continues to be an innovator and is pleased to be introducing a number of
+ exciting new products to the CEDIA market in the coming weeks and months," said
+ Jeffrey Curtis, CEO of Luxul. "These new products are designed specifically with
+the custom installer in mind and will stay true to the Luxul Xen(TM) philosophy 
+of delivering superior performance and robust features along with simplicity of 
+installation and deployment. We are confident that our dealers will be excited to
+get their hands on these new offerings that will further assist them in providing
+reliable and cost-effective IP networking solutions to their clients"
+
+Luxul Xen incorporates a full line of pre-configured modular solutions that simplify
+network design and deployment, while delivering a reliable and scalable network 
+that is powerful, yet easy to install and manage.
+
+All Luxul Xen products include free lifetime support and are available ONLY through
+industry recognized distributors of residential and commercial integration products,
+including ADI [http://r20.rs6.net/tn.jsp?e=001Sm6KQioDnDWXD-bvt-G2c_jUx_WXiIP8_somcFoAbBS9oelSj9kP4uK9bOh4bRE2RMWsfexRo3VRDEu9CUNZ5aBFUGVm3SVBnqJiPzZvV5tyzJUjuTCouAA_hGsZqADfU__JFyzvG38=],
+AVAD [http://r20.rs6.net/tn.jsp?e=001Sm6KQioDnDXbXD6vyNPPx6gPJWvzaNhaBB1ZEfLhNycCQYKj5iM_oEZ2K2_bA5SJOXHbhi1n3wga27puc-FA69ai0vcwXCEVxzkEtqpU51nscPR5KJqHdrQDrmY7vrcR],
+WAVE Electronics [http://r20.rs6.net/tn.jsp?e=001Sm6KQioDnDVmyMSoeYQklDKopZ4Qgy4RC6CDjuQ8pbLEBOq0rX95QECJqyppbLfLX_0uS8U_GxaXFfJxs8LDSntFZEqNTXPq7xK37d-xTj0BkjmbEvJEBGz-2l1luMJgONYFojOKwxovZBRxSvZ-pw==]
+and the PowerHouse Alliance [http://r20.rs6.net/tn.jsp?e=001Sm6KQioDnDX9HkLSbjulR6AWp5P6QtrI4Rl2RhTRA128pQgw2yRktktFGdZTpfvqJFD6hs6EtGQCG9v_bYmCw8Ik2aUV0cRamm7I0YTudK4V6_4c-fU9i9QMszkFyQdZ8to4Fu4oB4alEdczgZAdjA==].
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Be sure to join our mailing list to continue to receive email after October 2013
+Join Our Mailing List [http://visitor.r20.constantcontact.com/email.jsp?m=1102180066094]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Like me on Facebook [http://r20.rs6.net/tn.jsp?e=001Sm6KQioDnDV9aZBByefZ095Nm6QiHmkaolagyJ21K6FLZkOgYUEalu6uPZXtzuZwe_hXwGCmAtTVQEjtZT76rNkCIchQDGIewuzW-lkTI8jDdnTsUoeMO-gSk6kIR_jw]
+Follow me on Twitter [http://r20.rs6.net/tn.jsp?e=001Sm6KQioDnDX9nCVL7gaq_1vPhRetIyN0AnRBpAyuDzGNv7-hdvHvw-782qo-JnkftmxHo1xaDlJuU1fpv5g4vz7InfZiH_ixdn_7EJSegoPQlYHRNcQGJ1R-CsmmrpWf]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Check out our Free  [http://r20.rs6.net/tn.jsp?e=001Sm6KQioDnDV2UHck0oNthi5on0pAk85skrLe7nyhHNtFih6_KqFv_0bRNBSKRHeBI_n43l_2cVHBbXrIslDRvU2SEM_8e0LUBu1rw9Sl475TLegUrlgblsS6ZBk7MBR7sLqTHgSKtR4=]
+IP Networking Educational Webinars [http://r20.rs6.net/tn.jsp?e=001Sm6KQioDnDV2UHck0oNthi5on0pAk85skrLe7nyhHNtFih6_KqFv_0bRNBSKRHeBI_n43l_2cVHBbXrIslDRvU2SEM_8e0LUBu1rw9Sl475TLegUrlgblsS6ZBk7MBR7sLqTHgSKtR4=]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Forward this email
+http://ui.constantcontact.com/sa/fwtf.jsp?llr=ozi9qpcab&m=1102180066094&ea=diego@domotek-us.com&a=1114599335263
+
+
+This email was sent to diego@domotek-us.com by ksmith@luxul.com.
+
+Update Profile/Email Address
+http://visitor.constantcontact.com/do?p=oo&mse=001tWHBC2Uj9uG_VAhSze9s4dWBt-e_49WkVycXiCrPOpI%3D&t=001M2Ebd-YnonsO0YGtM5y9sA%3D%3D&lang=001FCSs65SMrsI%3D&llr=ozi9qpcab
+
+
+Instant removal with SafeUnsubscribe(TM)
+http://visitor.constantcontact.com/do?p=un&mse=001tWHBC2Uj9uG_VAhSze9s4dWBt-e_49WkVycXiCrPOpI%3D&t=001M2Ebd-YnonsO0YGtM5y9sA%3D%3D&lang=001FCSs65SMrsI%3D&llr=ozi9qpcab
+
+
+Privacy Policy:
+http://ui.constantcontact.com/roving/CCPrivacyPolicy.jsp
+
+
+
+
+Luxul | 14203 Minuteman Drive | Suite 201 | Draper | UT | 84020-1685
+------=_Part_115120386_493373156.1377093894718
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+<body topmargin=3D"0" leftmargin=3D"0" rightmargin=3D"0"><!--Copyright (c) =
+1996-2013 Constant Contact. All rights reserved.  Except as permitted under=
+ a separate
+written agreement with Constant Contact, neither the Constant Contact softw=
+are, nor any content that appears on any Constant Contact site,
+including but not limited to, web pages, newsletters, or templates may be r=
+eproduced, republished, repurposed, or distributed without the
+prior written permission of Constant Contact.  For inquiries regarding repr=
+oduction or distribution of any Constant Contact material, please
+contact legal@constantcontact.com.--><div id=3D"rootDiv"><img src=3D"http:/=
+/r20.rs6.net/on.jsp?t=3D1114599335263.0.1102180066094.18194&ts=3DS0945&r=3D=
+3&o=3Dhttp://ui.constantcontact.com/images/p1x1.gif" height=3D"1" width=3D"=
+1" />
+<div align=3D"center">
+<table style=3D"background-color:#FFFFFF;" bgcolor=3D"#FFFFFF" border=3D"0"=
+ width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+=09<td rowspan=3D"1" colspan=3D"1" align=3D"center">
+    <table style=3D"width:600px;" border=3D"0" width=3D"600" cellspacing=3D=
+"0" cellpadding=3D"1">
+    <tr>
+    =09<td style=3D"padding:0;" width=3D"100%" rowspan=3D"1" colspan=3D"1">
+        <table style=3D"display: table;" height=3D"75" border=3D"0" width=
+=3D"100%" cellspacing=3D"0" cellpadding=3D"0" id=3D"content_LETTER.BLOCK1">=
+<tr><td style=3D"color:#18150f;font-family:Arial,Helvetica,sans-serif;font-=
+size:10pt;" valign=3D"bottom" rowspan=3D"1" colspan=3D"1"><img height=3D"96=
+" vspace=3D"2" border=3D"0" name=3D"ACCOUNT.IMAGE.16" hspace=3D"0" width=3D=
+"600" alt=3D"Lux 600px wide 200 rt" src=3D"http://ih.constantcontact.com/fs=
+132/1102180066094/img/16.png" /></td></tr></table>  =20
+        </td>
+    </tr>
+    <tr>
+    =09<td style=3D"background-color:#FFFFFF;" bgcolor=3D"#FFFFFF" rowspan=
+=3D"1" colspan=3D"1">
+        <table style=3D"background-color:#ffffff;" bgcolor=3D"#ffffff" bord=
+er=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">      =20
+        <tr>
+        =09<td rowspan=3D"1" colspan=3D"1">
+            <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpaddin=
+g=3D"0">
+            <tr valign=3D"top">            =09
+                <td style=3D"width:400px;background-color:#FFFFFF;padding:0=
+;" bgcolor=3D"#FFFFFF" valign=3D"top" width=3D"400" rowspan=3D"1" colspan=
+=3D"1">
+                               =20
+                </td>
+                <td style=3D"width:200px;background-image:none;background-r=
+epeat:repeat-y;border-left:1px solid #f1dc71;background-color:#000000;ih-na=
+me:;padding:0;" bgcolor=3D"#000000" valign=3D"top" width=3D"200" rowspan=3D=
+"1" colspan=3D"1">
+               =20
+                </td>
+            </tr>
+            </table>
+            </td>
+        </tr>
+        <tr>
+        =09<td style=3D"padding:0;border-bottom-width:1px;border-bottom-sty=
+le:solid;border-left:none;border-color:#FFFFFF;border-right:none;border-top=
+-width:1px;border-top-style:solid;" bordercolor=3D"#FFFFFF" valign=3D"top" =
+width=3D"100%" rowspan=3D"1" colspan=3D"1">                    =20
+            <table style=3D"display: table;" border=3D"0" width=3D"100%" ce=
+llspacing=3D"0" cellpadding=3D"0" id=3D"content_LETTER.BLOCK4"><tr><td styl=
+e=3D"color: #000000;" rowspan=3D"1" colspan=3D"1"><img vspace=3D"0" border=
+=3D"0" hspace=3D"0" width=3D"600" style=3D"display: block;" src=3D"http://l=
+uxul.com/wp-content/uploads/10newprods.png" /></td></tr></table>           =
+                       =20
+            </td>
+        </tr>
+        <tr>
+        =09<td rowspan=3D"1" colspan=3D"1">
+            <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpaddin=
+g=3D"0">
+            <tr valign=3D"top">            =09              =20
+                <td style=3D"width:400px;" valign=3D"top" width=3D"400" row=
+span=3D"1" colspan=3D"1">
+                <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0">
+                <tr>
+                =09<td style=3D"padding:0;" width=3D"100%" rowspan=3D"1" co=
+lspan=3D"1">
+                   =20
+                                       =20
+                    </td>
+                </tr>
+                <tr>
+                =09<td style=3D"padding:0;" width=3D"100%" rowspan=3D"1" co=
+lspan=3D"1">
+                    <a name=3D"LETTER.BLOCK7"></a><table class=3D"CopyBG" b=
+order=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"15" id=3D"conte=
+nt_LETTER.BLOCK7"><tr><td style=3D"color:#18150f;font-family:Arial,Helvetic=
+a,sans-serif;font-size:10pt;" rowspan=3D"1" colspan=3D"1" align=3D"left">
+<div style=3D"color:#6E9934;font-family:Arial,Helvetica,sans-serif;font-siz=
+e:24pt;"><span style=3D"font-size: 18pt;"><b>LUXUL TO INTRODUCE 10 NEW IP N=
+ETWORKING PRODUCTS AT CEDIA EXPO<br /><br /><p style=3D"margin-top: 0px; ma=
+rgin-bottom: 0px; color: #afa9a6; font-size: 14pt;"><span>Products to be Ex=
+hibited Include 802.11ac Wireless Routers, High Powered Concurrent Dual-Ban=
+d APs, PoE Switches and Gigabit Broadband Routers</span></p></b></span></di=
+v>
+<p style=3D"margin-top: 0px; margin-bottom: 0px;"><span>&nbsp;</span></p>
+<p style=3D"margin-top: 0px; margin-bottom: 0px;"><span>Luxul will feature =
+10 new products at the CEDIA Expo (Booth #2350) in Denver, CO to be held Se=
+ptember 25-28, 2013. All 10 products are part of the Luxul Xen&trade; famil=
+y of IP networking equipment designed specifically for the CEDIA custom ins=
+taller market. Products on display will include leading edge 802.11ac Gigab=
+it wireless routers, high-powered concurrent dual-band wireless access poin=
+ts, state-of-the-art PoE switches and Gigabit broadband router solutions. D=
+etails of each product will be released at a later time. </span></p>
+<p style=3D"margin-top: 0px; margin-bottom: 0px;"><span>&nbsp;</span></p>
+<p style=3D"margin-top: 0px; margin-bottom: 0px;"><span>"Luxul continues to=
+ be an innovator and is pleased to be introducing a number of exciting new =
+products to the CEDIA market in the coming weeks and months," said Jeffrey =
+Curtis, CEO of Luxul. "These new products are designed specifically with th=
+e custom installer in mind and will stay true to the Luxul Xen&trade; philo=
+sophy of delivering superior performance and robust features along with sim=
+plicity of installation and deployment. We are confident that our dealers w=
+ill be excited to get their hands on these new offerings that will further =
+assist them in providing reliable and cost-effective IP networking solution=
+s to their clients"&nbsp;&nbsp; </span></p>
+<p style=3D"margin-top: 0px; margin-bottom: 0px;"><span>&nbsp;</span></p>
+<p style=3D"margin-top: 0px; margin-bottom: 0px;"><span>Luxul Xen incorpora=
+tes a full line of pre-configured modular solutions that simplify network d=
+esign and deployment, while delivering a reliable and scalable network that=
+ is powerful, yet easy to install and manage. </span></p>
+<p style=3D"margin-top: 0px; margin-bottom: 0px;"><span>All Luxul Xen produ=
+cts include free lifetime support and are available ONLY through industry r=
+ecognized distributors of residential and commercial integration products, =
+including </span><a style=3D"color: rgb(133, 196, 70); text-decoration: und=
+erline;" track=3D"on" href=3D"http://r20.rs6.net/tn.jsp?e=3D001Sm6KQioDnDWX=
+D-bvt-G2c_jUx_WXiIP8_somcFoAbBS9oelSj9kP4uK9bOh4bRE2RMWsfexRo3VRDEu9CUNZ5aB=
+FUGVm3SVBnqJiPzZvV5tyzJUjuTCouAA_hGsZqADfU__JFyzvG38=3D" shape=3D"rect" lin=
+ktype=3D"1" target=3D"_blank">ADI</a><span>, </span><a style=3D"color: rgb(=
+133, 196, 70); text-decoration: underline;" track=3D"on" href=3D"http://r20=
+.rs6.net/tn.jsp?e=3D001Sm6KQioDnDXbXD6vyNPPx6gPJWvzaNhaBB1ZEfLhNycCQYKj5iM_=
+oEZ2K2_bA5SJOXHbhi1n3wga27puc-FA69ai0vcwXCEVxzkEtqpU51nscPR5KJqHdrQDrmY7vrc=
+R" shape=3D"rect" linktype=3D"1" target=3D"_blank">AVAD</a><span>, </span><=
+a style=3D"color: rgb(133, 196, 70); text-decoration: underline;" track=3D"=
+on" href=3D"http://r20.rs6.net/tn.jsp?e=3D001Sm6KQioDnDVmyMSoeYQklDKopZ4Qgy=
+4RC6CDjuQ8pbLEBOq0rX95QECJqyppbLfLX_0uS8U_GxaXFfJxs8LDSntFZEqNTXPq7xK37d-xT=
+j0BkjmbEvJEBGz-2l1luMJgONYFojOKwxovZBRxSvZ-pw=3D=3D" shape=3D"rect" linktyp=
+e=3D"1" target=3D"_blank">WAVE Electronics</a><span> and the </span><a styl=
+e=3D"color: rgb(133, 196, 70); text-decoration: underline;" track=3D"on" hr=
+ef=3D"http://r20.rs6.net/tn.jsp?e=3D001Sm6KQioDnDX9HkLSbjulR6AWp5P6QtrI4Rl2=
+RhTRA128pQgw2yRktktFGdZTpfvqJFD6hs6EtGQCG9v_bYmCw8Ik2aUV0cRamm7I0YTudK4V6_4=
+c-fU9i9QMszkFyQdZ8to4Fu4oB4alEdczgZAdjA=3D=3D" shape=3D"rect" linktype=3D"1=
+" target=3D"_blank">PowerHouse Alliance</a><span>. </span></p>
+</td></tr></table>
+                    </td>
+                </tr>
+                <tr>
+                =09<td style=3D"padding:0;" width=3D"100%" rowspan=3D"1" co=
+lspan=3D"1">
+                   =20
+                    </td>
+                </tr>
+                <tr>
+                =09<td style=3D"padding:0;" width=3D"100%" rowspan=3D"1" co=
+lspan=3D"1">
+                   =20
+                   =20
+                    </td>
+                </tr>               =20
+                </table>
+                </td>=20
+                <td style=3D"width:200px;background-image:none;background-r=
+epeat:repeat-y;border-left:1px solid #f1dc71;background-color:#000000;ih-na=
+me:;padding:0;" bgcolor=3D"#000000" valign=3D"top" width=3D"200" rowspan=3D=
+"1" colspan=3D"1">
+                       =20
+               =20
+               =20
+               =20
+               =20
+                <table style=3D"margin-bottom:10px;" border=3D"0" width=3D"=
+100%" cellspacing=3D"0" cellpadding=3D"15" id=3D"content_LETTER.BLOCK17"><t=
+r><td style=3D"color:#85C446;font-family:Arial Narrow,Arial MT Condensed Li=
+ght,sans-serif;font-size:12pt;" rowspan=3D"1" colspan=3D"1" align=3D"left">
+<div style=3D"color: #f0a300;">Be sure to join our mailing list to continue=
+ to receive email after October 2013<br /><br /></div>
+<b><a style=3D"color:#85C446;font-family:Arial Narrow,Arial MT Condensed Li=
+ght,sans-serif;font-size:12pt;" href=3D"http://visitor.r20.constantcontact.=
+com/email.jsp?m=3D1102180066094" shape=3D"rect" target=3D"_blank">Join Our =
+Mailing List</a></b></td></tr></table><table style=3D"background-color: #ff=
+ffff;" bgcolor=3D"#FFFFFF" border=3D"0" width=3D"100%" cellspacing=3D"0" ce=
+llpadding=3D"0" id=3D"content_LETTER.BLOCK22"><tr><td style=3D"color: #0000=
+00;" height=3D"1" rowspan=3D"1" colspan=3D"1" /></tr></table><table border=
+=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"15" id=3D"content_LE=
+TTER.BLOCK20"><tr><td style=3D"font-size: 12pt; font-family: Arial,Helvetic=
+a,sans-serif; color: #85c446;" rowspan=3D"1" colspan=3D"1" align=3D"left">
+<div><span style=3D"color: #ffffff;">
+<div style=3D"text-align: center;" align=3D"center"><a track=3D"on" href=3D=
+"http://r20.rs6.net/tn.jsp?e=3D001Sm6KQioDnDV9aZBByefZ095Nm6QiHmkaolagyJ21K=
+6FLZkOgYUEalu6uPZXtzuZwe_hXwGCmAtTVQEjtZT76rNkCIchQDGIewuzW-lkTI8jDdnTsUoeM=
+O-gSk6kIR_jw" shape=3D"rect" linktype=3D"facebook" target=3D"_blank"><img h=
+eight=3D"36" border=3D"0" width=3D"100" alt=3D"Like me on Facebook" src=3D"=
+https://imgssl.constantcontact.com/ui/images1/btn_fbk_100_a.png" title=3D"L=
+ike me on Facebook" /></a><br /><br /></div>
+<div style=3D"text-align: center;" align=3D"center"><a track=3D"on" href=3D=
+"http://r20.rs6.net/tn.jsp?e=3D001Sm6KQioDnDX9nCVL7gaq_1vPhRetIyN0AnRBpAyuD=
+zGNv7-hdvHvw-782qo-JnkftmxHo1xaDlJuU1fpv5g4vz7InfZiH_ixdn_7EJSegoPQlYHRNcQG=
+J1R-CsmmrpWf" shape=3D"rect" linktype=3D"twitter" target=3D"_blank"><img he=
+ight=3D"36" border=3D"0" width=3D"100" alt=3D"Follow me on Twitter" src=3D"=
+https://imgssl.constantcontact.com/ui/images1/btn_twit_100.png" title=3D"Fo=
+llow me on Twitter" /></a>&nbsp;</div>
+</span></div>
+</td></tr></table><table style=3D"background-color: #ffffff;" bgcolor=3D"#F=
+FFFFF" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" id=
+=3D"content_LETTER.BLOCK22"><tr><td style=3D"color: #000000;" height=3D"1" =
+rowspan=3D"1" colspan=3D"1" /></tr></table><table style=3D"margin-bottom:10=
+px;display: table;" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpaddi=
+ng=3D"15" id=3D"content_LETTER.BLOCK25"><tr><td style=3D"font-size: 14pt; f=
+ont-family: Arial Narrow,Arial MT Condensed Light,sans-serif; color: #85c44=
+6;" rowspan=3D"1" colspan=3D"1" align=3D"left">
+<div><strong><a style=3D"color: rgb(133, 196, 70); text-decoration: underli=
+ne;" track=3D"on" href=3D"http://r20.rs6.net/tn.jsp?e=3D001Sm6KQioDnDV2UHck=
+0oNthi5on0pAk85skrLe7nyhHNtFih6_KqFv_0bRNBSKRHeBI_n43l_2cVHBbXrIslDRvU2SEM_=
+8e0LUBu1rw9Sl475TLegUrlgblsS6ZBk7MBR7sLqTHgSKtR4=3D" shape=3D"rect" linktyp=
+e=3D"1" target=3D"_blank">Check out our Free </a><br /><a style=3D"color: r=
+gb(133, 196, 70); text-decoration: underline;" track=3D"on" href=3D"http://=
+r20.rs6.net/tn.jsp?e=3D001Sm6KQioDnDV2UHck0oNthi5on0pAk85skrLe7nyhHNtFih6_K=
+qFv_0bRNBSKRHeBI_n43l_2cVHBbXrIslDRvU2SEM_8e0LUBu1rw9Sl475TLegUrlgblsS6ZBk7=
+MBR7sLqTHgSKtR4=3D" shape=3D"rect" linktype=3D"1" target=3D"_blank">IP Netw=
+orking Educational Webinars</a></strong><br /></div>
+</td></tr></table><table style=3D"background-color: #ffffff;" bgcolor=3D"#F=
+FFFFF" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" id=
+=3D"content_LETTER.BLOCK22"><tr><td style=3D"color: #000000;" height=3D"1" =
+rowspan=3D"1" colspan=3D"1" /></tr></table><table style=3D"margin-bottom:10=
+px;" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"15" id=3D=
+"content_LETTER.BLOCK28"><tr><td style=3D"color:#85C446;font-family:Arial N=
+arrow,Arial MT Condensed Light,sans-serif;font-size:12pt;" rowspan=3D"1" co=
+lspan=3D"1">
+<div style=3D"text-align: center;" align=3D"center"><br /><img height=3D"20=
+8" vspace=3D"5" border=3D"0" hspace=3D"5" width=3D"100" src=3D"http://luxul=
+.com/wp-content/email_images/cedialogo-stkforblk.png"><br /></img></div>
+</td></tr></table></td>               =20
+            </tr>
+            </table>
+            </td>
+        </tr> =20
+        </table>
+        </td>
+    </tr>
+    <tr>
+        <td style=3D"padding-top:10px;" height=3D"10" width=3D"100%" rowspa=
+n=3D"1" colspan=3D"1" align=3D"center">
+       =20
+        </td>
+    </tr>   =20
+    </table>
+=09</td>
+</tr>
+</table>
+</div>
+<div align=3D"center" style=3D"background-color:#ffffff;">
+<table style=3D"text-align:left;" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" id=3D"footerPanelWrap">
+<tr>
+<td rowspan=3D"1" colspan=3D"1" align=3D"center">
+
+<div><div style=3D"font-weight:bold;font-family:tahoma,sans-serif;font-size=
+:8pt;text-align:center;color:#000000;background-color:#ffffff;padding-botto=
+m:10px;"><font style=3D"font-family:tahoma,sans-serif;font-size:8pt;color:#=
+000000;" color=3D"#000000" size=3D"1" face=3D"tahoma,sans-serif"><a shape=
+=3D"rect" href=3D"http://ui.constantcontact.com/sa/fwtf.jsp?llr=3Dozi9qpcab=
+&m=3D1102180066094&ea=3Ddiego%40domotek-us.com&a=3D1114599335263" target=3D=
+"_blank">Forward this email</a></font></div>
+
+
+<table style=3D"font-family:tahoma,sans-serif;font-size:11px;color:#2f2f2f;=
+background-color:#ffffff;" border=3D"0" width=3D"619" cellspacing=3D"0" cel=
+lpadding=3D"0">
+<tr>
+<td rowspan=3D"1" colspan=3D"1"><font style=3D"font-family:tahoma,sans-seri=
+f;font-size:11px;color:#2f2f2f;" color=3D"#000000" size=3D"1" face=3D"tahom=
+a,sans-serif">
+<table border=3D"0" width=3D"100%">
+<tr>
+<td valign=3D"middle" width=3D"100" rowspan=3D"1" colspan=3D"1"><a shape=3D=
+"rect" href=3D"http://visitor.constantcontact.com/do?p=3Dun&mse=3D001tWHBC2=
+Uj9uG_VAhSze9s4dWBt-e_49WkVycXiCrPOpI%3D&t=3D001M2Ebd-YnonsO0YGtM5y9sA%3D%3=
+D&lang=3D001FCSs65SMrsI%3D&llr=3Dozi9qpcab" target=3D"_blank"><img border=
+=3D"0" src=3D"http://img.constantcontact.com/letters/images/SafeUnsubscribe=
+_Footer_Logo_New.png" /></a>
+</td>
+<td width=3D"519" rowspan=3D"1" colspan=3D"1" align=3D"right">
+</td>
+</tr>
+</table><div>This email was sent to diego@domotek-us.com by <a style=3D"col=
+or:#0000ff;" shape=3D"rect" href=3D"mailto:ksmith@luxul.com" target=3D"_bla=
+nk">ksmith@luxul.com</a> <span style=3D"color: #bababa;"> | </span> &nbsp; =
+</div>
+<div><a style=3D"color:#0000ff;" shape=3D"rect" href=3D"http://visitor.cons=
+tantcontact.com/do?p=3Doo&mse=3D001tWHBC2Uj9uG_VAhSze9s4dWBt-e_49WkVycXiCrP=
+OpI%3D&t=3D001M2Ebd-YnonsO0YGtM5y9sA%3D%3D&lang=3D001FCSs65SMrsI%3D&llr=3Do=
+zi9qpcab" target=3D"_blank">Update Profile/Email Address</a> <span style=3D=
+"color: #bababa;">|</span> Instant removal with <a style=3D"color:#0000ff;"=
+ shape=3D"rect" href=3D"http://visitor.constantcontact.com/do?p=3Dun&mse=3D=
+001tWHBC2Uj9uG_VAhSze9s4dWBt-e_49WkVycXiCrPOpI%3D&t=3D001M2Ebd-YnonsO0YGtM5=
+y9sA%3D%3D&lang=3D001FCSs65SMrsI%3D&llr=3Dozi9qpcab" target=3D"_blank">Safe=
+Unsubscribe</a>&trade;  <span style=3D"color: #bababa;">|</span>  <a style=
+=3D"color:#0000ff;" shape=3D"rect" href=3D"http://ui.constantcontact.com/ro=
+ving/CCPrivacyPolicy.jsp" target=3D"_blank">Privacy Policy</a>.</div>
+</font></td>
+</tr>
+</table><div style=3D"font-family:tahoma,sans-serif;font-size:12px;color:#0=
+00000;background-color:#ffffff;padding-top: 12px;" align=3D"left" id=3D"LET=
+TER.PHYSICALADDRESS"><font style=3D"font-family:tahoma,sans-serif;font-size=
+:12px;color:#000000;" color=3D"#000000" size=3D"1" face=3D"tahoma,sans-seri=
+f">Luxul<span style=3D"color: #bababa;"> | </span>14203 Minuteman Drive<spa=
+n style=3D"color: #bababa;"> | </span>Suite 201<span style=3D"color: #babab=
+a;"> | </span>Draper<span style=3D"color: #bababa;"> | </span>UT<span style=
+=3D"color: #bababa;"> | </span>84020-1685</font></div></div>
+</td>
+</tr>
+</table>
+</div></div></body>
+
+------=_Part_115120386_493373156.1377093894718--
+

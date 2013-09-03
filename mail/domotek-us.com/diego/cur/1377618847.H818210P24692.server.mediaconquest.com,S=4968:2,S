@@ -1,0 +1,94 @@
+Return-path: <no-reply@dropbox.com>
+Envelope-to: diego@domotek-us.com
+Delivery-date: Tue, 27 Aug 2013 10:54:07 -0500
+Received: from sjc-smtp8.sjc.dropbox.com ([199.47.218.206]:22104)
+	by server.mediaconquest.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80.1)
+	(envelope-from <no-reply@dropbox.com>)
+	id 1VELap-0006QC-IJ
+	for diego@domotek-us.com; Tue, 27 Aug 2013 10:54:07 -0500
+Received: from snt-web1117.sjc.dropbox.com (snt-web1117.sjc.dropbox.com [10.12.69.170])
+	by sjc-smtp8.sjc.dropbox.com (Postfix) with ESMTP id 3A988B6B1FE
+	for <diego@domotek-us.com>; Tue, 27 Aug 2013 15:54:06 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dropbox.com; s=m1;
+	t=1377618846; bh=QklWVyyM4tcfkFfmfchJW6EGCxIaxQ0dWEYC/FSerOk=;
+	h=Content-Type:MIME-Version:From:To:Subject:Date:Reply-To:
+	 Message-Id;
+	b=poehX6MmAal60o53Z/WckOcL0uX7v0O0qt+TTCZ1iA04gpVsSZavbEiNzgRGUo08V
+	 1xSqZNbY13EvZBWV7jqccCvDrIK6dPoafBsVFy21lblyp206pP0hRZWVkjb4eYjx58
+	 Ebo7na7SyKj/XmSxyvH7fzkiz4Tubgzgl9oeT5fs=
+Received: from snt-web1117.sjc.dropbox.com (localhost [127.0.0.1])
+	by snt-web1117.sjc.dropbox.com (Postfix) with ESMTP id 3690416A00B4
+	for <diego@domotek-us.com>; Tue, 27 Aug 2013 15:54:06 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="===============7878461442842410914=="
+MIME-Version: 1.0
+From: Trudy via Dropbox <no-reply@dropbox.com>
+To: diego@domotek-us.com
+Subject: =?utf-8?q?Trudy_Phillips_shared_=22ELK_Product_Marketing_Images=22_with_y?=
+ =?utf-8?q?ou?=
+Date: Tue, 27 Aug 2013 15:54:06 +0000
+Reply-To: trudy.phillips@elkproducts.com
+Message-Id: <20130827155406.3690416A00B4@snt-web1117.sjc.dropbox.com>
+
+--===============7878461442842410914==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Trudy's message:
+
+"Diego,
+DropBox is free.  All ELK images are in this folder and we update  when new=
+ products become available."
+
+Click here to view ELK Product Marketing Images:
+https://www.dropbox.com/l/WvPgXIFOGWLscdCevQU36e
+
+(Trudy shared this file using Dropbox. Enjoy!)
+--===============7878461442842410914==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta content=3D"text/ht=
+ml; charset=3Dutf-8" http-equiv=3D"Content-Type"></head><body style=3D"widt=
+h: 100% !important; margin: 0; padding: 0; -webkit-text-size-adjust: 100%; =
+-ms-text-size-adjust: 100%;" marginheight=3D"0" marginwidth=3D"0"><center><=
+table cellpadding=3D"8" cellspacing=3D"0" style=3D"background-color: #fffff=
+f; background: #ffffff; width: 100% !important; margin: 0; padding: 0; *wid=
+th:528px;" border=3D"0"><tr><td valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0"><t=
+r><td bgcolor=3D"#b9e1fb" align=3D"center" style=3D"font-size: 0px;" height=
+=3D"1"><img src=3D"https://www.dropbox.com/static/images/emails/email_heade=
+r.jpg" alt=3D"" style=3D"width:100%; max-height:129px; *width:528px; *heigh=
+t:129px;"></td></tr><tr><td><table cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"border-left: 1px #b9e1fb solid; border-right: 1px #b9e1fb solid; borde=
+r-bottom: 1px #b9e1fb solid; -webkit-border-radius: 0px 0px 4px 4px; border=
+-radius: 0px 0px 4px 4px; -moz-border-radius-bottomright: 4px; -moz-border-=
+radius-bottomleft: 4px;" border=3D"0" align=3D"center"><tr><td colspan=3D"3=
+" height=3D"36"></td></tr><tr><td width=3D"36"></td>
+<td width=3D"454" style=3D"font-size: 14px; color: #444444; font-family: 'O=
+pen Sans', 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicod=
+e', Tahoma, 'Sans Serif'; border-collapse: collapse;" align=3D"left" valign=
+=3D"top">   From Trudy:<br><br>  "Diego,<br>DropBox is free.  All ELK image=
+s are in this folder and we update  when new products become available."<br=
+><br><a href=3D"https://www.dropbox.com/l/HU4KryTGezt0bRbwjnt3xd">Click her=
+e to view ELK Product Marketing Images</a><br><br>  (Trudy shared these fil=
+es using Dropbox. Enjoy!) </td>
+<td width=3D"36"></td>
+</tr><tr><td colspan=3D"3" height=3D"36"></td></tr></table></td></tr></tabl=
+e><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0">=
+<tr><td height=3D"10"></td></tr><tr><td style=3D"padding: 0; border-collaps=
+e: collapse;"><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" b=
+order=3D"0"><tr style=3D"font-size: 11px; color: #a8b9c6; font-family: 'Ope=
+n Sans', 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode'=
+, Tahoma, 'Sans Serif';" valign=3D"top"><td width=3D"400" align=3D"left"></=
+td>
+<td width=3D"128" align=3D"right">&#169; 2013 Dropbox</td>
+</tr></table></td></tr></table></td></tr></table></center></body></html><im=
+g width=3D"1" src=3D"https://www.dropbox.com/l/dRm0VzqAbB2OukjiybHXQc" heig=
+ht=3D"1" />
+--===============7878461442842410914==--

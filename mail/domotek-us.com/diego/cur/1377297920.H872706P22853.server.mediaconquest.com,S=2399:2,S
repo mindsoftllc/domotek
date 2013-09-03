@@ -1,0 +1,47 @@
+Return-path: <>
+Envelope-to: diego@domotek-us.com
+Delivery-date: Fri, 23 Aug 2013 17:45:20 -0500
+Received: from minnie.leviton.com ([209.123.84.30]:23964)
+	by server.mediaconquest.com with esmtp (Exim 4.80.1)
+	id 1VD06a-0005wW-NN
+	for diego@domotek-us.com; Fri, 23 Aug 2013 17:45:20 -0500
+Received: from cklnsfw1.leviton.com (HELO cksfw1.leviton.com) ([10.6.8.25])
+  by minnie.leviton.com with ESMTP; 23 Aug 2013 18:45:19 -0400
+X-ASG-Debug-ID: 1377297918-05332f0621877230001-aDbH1H
+Received: from exmail.leviton.com (w2ckec5.leviton.inc [10.4.36.248]) by cksfw1.leviton.com with ESMTP id 59W91yhX4DdIREzQ for <diego@domotek-us.com>; Fri, 23 Aug 2013 18:45:18 -0400 (EDT)
+X-Barracuda-Envelope-From: 
+Received: from W2CKEC5.leviton.inc ([::1]) by W2CKEC5.leviton.inc ([::1]) with
+ Microsoft SMTP Server id 14.02.0342.003; Fri, 23 Aug 2013 18:45:18 -0400
+From: "Read, Allison" <ARead@leviton.com>
+X-Barracuda-Apparent-Source-IP: ::1
+To: Diego Lizarzaburu <diego@domotek-us.com>
+Subject: Automatic reply: DISTRIBUTION - DOMOTEK
+Thread-Topic: DISTRIBUTION - DOMOTEK
+X-ASG-Orig-Subj: Automatic reply: DISTRIBUTION - DOMOTEK
+Thread-Index: Ac6gUltNGo2gaL07SgyXzp/i+FBBCgAABXwl
+Date: Fri, 23 Aug 2013 22:45:18 +0000
+Message-ID: <95e647137a3748958c86390e00a4695f@W2CKEC5.leviton.inc>
+References: <003001cea052$5c83d870$158b8950$@com>
+In-Reply-To: <003001cea052$5c83d870$158b8950$@com>
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-Exchange-Inbox-Rules-Loop: ARead@leviton.com
+X-MS-TNEF-Correlator:
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Barracuda-Connect: w2ckec5.leviton.inc[10.4.36.248]
+X-Barracuda-Start-Time: 1377297918
+X-Barracuda-URL: http://10.6.8.25:8000/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at leviton.com
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=1000.0 tests=EMPTY_ENV_FROM, OOBOUNCE_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.139234
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 EMPTY_ENV_FROM         Empty Envelope From Address
+	0.00 OOBOUNCE_MESSAGE       Out-of-Office bounce message
+
+I am currently out of the office.  I will answer your email as soon as poss=
+ible.  Thanks!

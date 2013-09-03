@@ -1,0 +1,40 @@
+Return-path: <mlabanowitz@sesecurityproducts.com>
+Envelope-to: diego@domotek-us.com
+Delivery-date: Thu, 29 Aug 2013 11:39:48 -0500
+Received: from mail-ie0-f181.google.com ([209.85.223.181]:34675)
+	by server.mediaconquest.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80.1)
+	(envelope-from <mlabanowitz@sesecurityproducts.com>)
+	id 1VF5G7-0006Lp-Ud
+	for diego@domotek-us.com; Thu, 29 Aug 2013 11:39:47 -0500
+Received: by mail-ie0-f181.google.com with SMTP id a14so1188904iee.12
+        for <diego@domotek-us.com>; Thu, 29 Aug 2013 09:39:48 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:date:from:to:message-id:subject:mime-version
+         :content-type:content-transfer-encoding:content-disposition
+         :precedence:auto-submitted;
+        bh=7h4MQmRoGXlpAQDriqe1kAwc4WBTOvEJof41Dwa1AM0=;
+        b=eybkC/GLOxUKGl+hGfHMkY515nTEvO9GJ2KblHFPBLf2QNwiExccbZVWJTlj+WQLTO
+         gjLlp9mAbd/9ZS8aiyn3VKuNlHu54MF0OHJ19OVNuEH8Qi2wejtIVqNSm/mQUMoLKT6E
+         MIwDdQ+tCPeq1j2zdLR6WMdHFHgltFii4B6LBjLiXyVIqzyVJauC9M8dxEailtClrcXd
+         Ctxs8EfqnkC4guTS9NU8QfGBvIQIzxx6qJcp41n7ePSb2wHaSjTdrhdtLar3yXs0oORL
+         nnJ60cDAT6zpTmfTy6Jm0vOGjmWR8BO2bHH5aoJ+0Ev7+gI1e4gPdvdiN7XUpIY+IJQ9
+         rMyA==
+X-Gm-Message-State: ALoCoQlUsFRRq9a0RZepIy0rG1iypCTWqUgnK92Yt2lj9Zx/5RcuvyWNa13FNVQaFuPrX2ej8oJp
+X-Received: by 10.50.4.105 with SMTP id j9mr4639882igj.28.1377794388034;
+        Thu, 29 Aug 2013 09:39:48 -0700 (PDT)
+Date: Thu, 29 Aug 2013 09:39:47 -0700
+From: "Margaret Labanowitz" <mlabanowitz@sesecurityproducts.com>
+To: diego@domotek-us.com
+Message-ID: <CAMhP1QwFXQYE2GL3hZjsWg-4AdOKwNf2nouf=YAZivxwwqwYrw@mail.gmail.com>
+Subject: out of office / vacation RE: PCS PulseWorx Authorized Distributor Confirmation
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+Precedence: bulk
+X-Autoreply: yes
+Auto-Submitted: auto-replied
+
+<div dir="ltr">Hello - <br><br>I will be on vacation until Wednesday, September 4th. &nbsp;If you need assistance, <br>please contact your local sales manager:<br><br>SFL: Adam Feinberg 954-214-3021 adam@sesp.us<br><br>SFL &amp; SW FL: Erik Nilsen 754-264-2756 erik@sesp.us<br><br>Central &amp; Northern FL: Roy Nilsen 954-448-3553 roy@sesp.us<br><br>GA, AL, TN &amp; MS : Shannon Diddell 678-595-8112 shannon@sesp.us<br><br>NC, SC &amp; S. VA : Brian Hodge 919-250-8082 brian@sesp.us<br><br>IT/Tech Support: Rajesh Ramsook 954-818-1091 raj@sesp.us<br><br>Thank you.<br><br>Sincerely,<br><br>Margaret Labanowitz<br>Office Manager<br><br>Southeast Security Products<br>We represent quality.<br><br>1387 S. Andrews Ave.<br>Pompano Beach, FL 33069<br>ph 954.786.5900 ext 301<br>fx 954.786.8826<br><br>http://www.sesecurityproducts.com<br></div>
